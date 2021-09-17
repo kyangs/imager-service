@@ -1,0 +1,6 @@
+{
+  "ImageService": {
+    "Port": ":9999",
+    "FilePath": "/tmp/goodsIdForImageReRsync.list"
+  }
+}
